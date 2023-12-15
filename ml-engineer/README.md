@@ -18,7 +18,7 @@ Assuming the goal is to extract two fields, specifically the **Invoice Number** 
 - Managing uptraining strategies effectively to fine-tune existing Language Models (LLMs) or build models from scratch for improved performance.
 - Mitigating the risks of hallucinations or generating spurious information while ensuring grounding of extracted data to maintain accuracy and reliability.
 
-The deliverable should be a small (200-300 word) essay that showcases the challenges inherent in this scenario, focusing on strategies to address uptraining complexities, the decision-making process between utilizing existing LLMs or training from scratch, and methods to prevent model hallucinations while maintaining grounded, reliable extractions.
+**The deliverable should be a small (200-300 word) essay** that showcases the challenges inherent in this scenario, focusing on strategies to address uptraining complexities, the decision-making process between utilizing existing LLMs or training from scratch, and methods to prevent model hallucinations while maintaining grounded, reliable extractions.
 
 We're eager to gain insights into your problem-solving strategies and methodology. Your response will be pivotal in assessing your capabilities to address complex ML challenges effectively.
 
