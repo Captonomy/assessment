@@ -22,7 +22,7 @@ Assuming the goal is to extract two fields, specifically the **Invoice Number** 
 ![InvoiceB](https://github.com/Captonomy/assessment/assets/14951564/2d4db56f-c03a-4327-b49a-9d9d56f548b6)
 
 
-**The deliverable should be a small (200-300 word) essay** that showcases the challenges inherent in this scenario, focusing on strategies to address uptraining complexities, the decision-making process between utilizing existing LLMs or training from scratch (or any other ML based solution), and methods to prevent model hallucinations while maintaining grounded, reliable extractions.
+**The deliverable should be a small (200-300 word) essay** that showcases the challenges inherent in this scenario, focusing on strategies to address uptraining complexities, the decision-making process between utilizing existing LLMs or training from scratch (or any other ML based solution), and methods to prevent model hallucinations while maintaining grounded, reliable extractions. Be specific with solutions that (you think) will solve this problem and avoid generalities.
 
 We're eager to gain insights into your problem-solving strategies and methodology. Your response will be pivotal in assessing your capabilities to address complex ML challenges effectively.
 
