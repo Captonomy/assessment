@@ -6,7 +6,7 @@ Thank you for expressing interest in the ML position at Captonomy Consulting. To
 Your task is to devise a model capable of extracting structured information from a collection of document images (e.g., invoice, utility-bill, bill-of-lading, tax forms etc). These documents exhibit semi-structured characteristics, wherein predefined fields such as *name*, *amount*, *address*, etc usually exist in this type of document. The challenge lies in identifying these fields accurately across diverse document layouts. Assume that the image can be converted to textual form, including spatial information, using an OCR engine, yet the quality of the OCR is not always very good (e.g. hard-to-read handwritten info, badly-digited documents, etc).
 
 #### Goal
-The goal is to create a solution that either requires no training at all to begin extracting information from structured documents that has never seen before and has not been trained on. 
+The goal is to create a solution that **requires no training at all** to begin extracting information from structured documents that has never seen before and has not been trained on. 
 
 #### Challenges
 - Variability in field positions across images due to diverse document layouts.
@@ -15,7 +15,7 @@ The goal is to create a solution that either requires no training at all to begi
 - Mitigating the risks of hallucinations or generating spurious information while ensuring grounding of extracted data to maintain accuracy and reliability.
 
 #### Example
-Assuming the goal is to extract two fields, specifically the **Invoice Number** and **Invoice Total**, for **both** of these images the results should be the same. **Do not assume** that you are tasked to build a solution that specifically targets invoices of this type, or invoices in general: **the task is to be able to handle such a problem without having to re-train a model for ANY type of specific document**.
+Assuming the goal is to extract two fields, specifically the **Invoice Number** and **Invoice Total**, for **both** of these images and the results should be the same. **Do not assume** that you are tasked to build a solution that specifically targets invoices of this type, or invoices in general: **the task is to be able to handle such a problem without having to re-train a model for ANY type of specific document type**.
 
 ![InvoiceA](https://github.com/Captonomy/assessment/assets/14951564/e6887b15-c19b-417e-9144-33b1d88085ee)
 
