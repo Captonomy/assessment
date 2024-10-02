@@ -61,6 +61,8 @@ The resulting code should be able to **run offline on a local machine**. If a GP
   "others": [...]
 }
 ```
+- **Guidelines**:
+    - You can optionally use the provided CSV to do a sanity check and validate your results.
 
 ## Deliverables
 
