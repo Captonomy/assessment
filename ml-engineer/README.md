@@ -1,35 +1,110 @@
+# Machine Learning Engineer Assignment: Document Classification and Information Extraction
+
 Dear Candidate,
 
-Thank you for expressing interest in the ML position at Captonomy Consulting. To assess your expertise in machine learning concepts and applications, we have a scenario for you to address. Please note this is a hypothetical scenario, and we're not expecting a detailed technical solution or actual code. Instead, we're interested in your high-level approach and strategic thinking. It's important to note that generic or auto-generated responses won't align with our expectations. We seek genuine insights that showcase your understanding and innovative problem-solving abilities.
+Thank you for your interest in the Machine Learning Engineer position at Captonomy Consulting. To assess your understanding of Transformer Models and practical machine learning skills, we have prepared an assignment that mirrors some of the challenges you might encounter in our R&D team.
 
-### Scenario 
-Your task is to devise a model capable of extracting structured information from a collection of digital (raster) document images (e.g., invoice, utility-bill, bill-of-lading, tax forms etc). These documents exhibit semi-structured characteristics, wherein predefined fields such as *name*, *amount*, *address*, *Total amount*, etc. usually exist in this type of document (each type of document has different *predefined* fields). The challenge lies in identifying these fields **accurately** across diverse document layouts. Assume that we can leverage existing OCR engines to get a text representation of any digital image along with coordinates for each word. Note however that the quality of the OCR might be lacking (e.g. hard-to-read handwritten info, badly-digited documents, etc) for example the number 105 could be detected as 10S or similar problem.
+## Assignment Overview
 
-Remember that your solution should differ from the way current LLMs treat information (which is to generate data in a semi-random way): in our example we need our model to give us a definite (positive or negative) answer and an exact, few-word, structured reply (e.g. when asking "what is the total for this utility-bill?" it should either give the exact number or reply "do-not-know" and not produce some random number).
+You will be provided with a folder containing PDF files. Each PDF is the first page of a paper submitted to ICDAR 2024 (International Conference on Document Analysis and Recognition). Your tasks are:
 
-#### Goal
-The goal is to create a solution that, after initial training using a test set, can begin extracting information from structured documents **that it has never seen before, has not been trained on and that differ *vastly* in their format from the test set, even in the information they contain**, more or less as a human would do. Additionally, your solution should be able to get better by time on document types (or layouts) that it has seen before, based on human feedback, but without extensive re-training (e.g. no retraining of model from scratch). Essentially the model should be able to answer questions on any document or identify key-value pairs on any type of document.
+1. **Information Extraction**: Extract the **title** and **authors** from each paper.
+2. **Document Classification**: Classify each paper into one of the predefined categories (or suggest better-fitting ones if applicable).
+3. **Organize Outputs**: Create a json file with the classification and extraction results.
 
-#### Challenges
-- Variability in field positions across images due to diverse document layouts
-- Definitive answers with 100% confidence (a "do-not-know" answer is preferrable from a 80%-certainty answer since both will require a human to inspect/validate)
-- Limited or no labeled data for training, necessitating robust feature engineering
-- Managing uptraining strategies effectively to fine-tune existing Language Models (LLMs) or build models from scratch for improved performance
-- Mitigating the risks of hallucinations or generation of spurious information while ensuring grounding of extracted data to maintain accuracy and reliability.
+### Predefined Categories
 
-#### Example
-Assuming the goal is to extract two fields, specifically the **Invoice Number** and **Invoice Total**, for **both** of these images and the results should be the same. **Do not assume** that you are tasked to build a solution that specifically targets invoices of this type, or invoices in general: **the task is to be able to handle such a problem without having to re-train a model for ANY type of specific document type**.
+- **Tables**
+- **Classification**
+- **Key Information Extraction**
+- **Optical Character Recognition**
+- **Datasets**
+- **Document Layout Understanding**
+- **Others**
 
-![InvoiceA](https://github.com/Captonomy/assessment/assets/14951564/e6887b15-c19b-417e-9144-33b1d88085ee)
+*Feel free to suggest and use other categories if you believe they fit better. A maximum of 10 categories are acceptable.*
 
-![InvoiceB](https://github.com/Captonomy/assessment/assets/14951564/2d4db56f-c03a-4327-b49a-9d9d56f548b6)
+## Technical Requirements
 
+The resulting code should be able to **run offline on a local machine**. If a GPU is required you can use Google Collab or similar service for your development.
 
-**The deliverable should be a small (200-500 word) essay** that showcases the challenges inherent in this scenario, focusing on strategies to address uptraining complexities, the decision-making process between utilizing existing LLMs or training from scratch (or any other ML based solution), and methods to prevent model hallucinations while maintaining grounded, reliable extractions. Be specific with solutions that (you think) will solve this problem and avoid generalities. Do not include in your reply:
-- generalities like "An LLM can do this ...." or essay-like facts and stories
-- a set of models that could *possibly* solve the problem; be very specific: pick one or two models and explain why and how you will use and transform/uptraing/fine-tune it to do what is asked. Be specific of your approach.
-- proposing research topics is fine but it should be very specific, to the level where an ML engineer can start researching immediately
+- **Model Usage**: You are free to utilize any open source algorithm of your choosing (from classical ML scikit ones to Deep Learning models) and are encouraged to prefer small models like **BERT-like encoders** or similar. You may use pre-trained versions and fine-tune them if necessary.
+- **Programming Language**: Python is mandatory.
+- **Libraries and Tools**: You are encouraged to use libraries such as PyTorch (preferred), TensorFlow, Hugging Face Transformers, or any other relevant tools.
 
-We're eager to gain insights into your problem-solving strategies and methodology. Your response will be pivotal in assessing your capabilities to address complex ML challenges effectively.
+## Detailed Instructions
 
-Loking forward to your insights!
+### 1. Information Extraction
+
+- **Objective**: Extract the **title** and **authors** from each PDF and save them in json format.
+
+### 2. Document Classification
+
+- **Objective**: Classify each paper into the most appropriate category.
+- **Guidelines**:
+    - Analyze the content (title, abstract, etc.) to determine the relevant category.
+    - Use BERT-like models to generate embeddings or for text classification.
+    - If you believe a paper doesn't fit any of the predefined categories, you may classify it under **"Others"** or propose a new category.
+
+### 3. Output
+
+- **Objective**: Create a JSON file with your output, based on the following schema.
+
+```
+{
+  "tables": [{"originalFileName": "filename.pdf", "title": "recognized title", "authors": ["author_A", "author_B"]}],
+  "classification": [...],
+  "keyInformationExtraction": [...],
+  "opticalCharacterRecognition": [...],
+  "datasets": [...],
+  "layoutUnderstanding": [...],
+  "others": [...]
+}
+```
+
+## Deliverables
+
+1. **Code**:
+    - Provide all scripts and code used to complete the assignment. Jupyter Notebook format is preferred.
+    - Your code should be well-documented and organized.
+    - Include a `README.md` file with instructions on how to configure and run your code.
+    - Include a `requirements.txt` file if necessary.
+
+2. **Results**:
+    - Include the generated json file from your own inference run.
+
+3. **Report**:
+    - A brief report (max 2 pages) that could include (but not mandatory):
+        - **Introduction**: Overview of your approach.
+        - **Methodology**: Explanation of the models and techniques used for information extraction and classification.
+        - **Challenges**: Any issues faced during the assignment and how you addressed them.
+        - **Conclusion**: Summary of your findings and any suggestions for improvement.
+
+## Evaluation Criteria
+
+- **Accuracy of Information Extraction**: Correctness in extracting titles and authors.
+- **Classification Performance**: Proper category assignment.
+- **Use of Machine Learning Models**: Effective utilization of classical and/or deep learning models in your solution.
+- **Code Quality**: Readability, organization, and documentation of your code.
+- **Problem-Solving Skills**: Methodology used to tackle the underlying issue.
+- **Communication**: Clarity and conciseness of your report.
+
+## Submission Guidelines
+
+- **Time Spent**: You are free to spend as much time as necessary. However, we expect the task to not take more than a few workdays.
+- **Submission**: Send your archive via email to [Insert Email Address], or provide a link to a GitHub repository if you prefer.
+- **Naming Convention**: Name your archive `YourName_MLE_Assignment.zip`.
+
+## Additional Information
+
+- **Data Privacy**: Ensure that any code or data shared complies with data privacy laws and regulations.
+- **Assumptions**: Clearly state any assumptions you make during the assignment.
+- **Questions**: If you have any questions or need clarifications, feel free to reach out to us at [Insert Contact Information].
+
+---
+
+We look forward to seeing your innovative solutions and insights!
+
+Best regards,
+
+The Captonomy Consulting Team
