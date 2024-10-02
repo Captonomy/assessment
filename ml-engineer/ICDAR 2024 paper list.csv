@@ -1,0 +1,162 @@
+﻿ID,Authors,Title,Corresponding author 1,Corresponding author's Email
+4,"Marco Peer, Florian Kleber and Robert Sablatnig",SAGHOG: Self-Supervised Autoencoder for Generating HOG Features for Writer Retrieval,Marco Peer,mpeer@cvl.tuwien.ac.at
+7,"Fabio Quattrini, Vittorio Pippi, Silvia Cascianelli and Rita Cucchiara",Binarizing Documents by Leveraging both Space and Frequency,Fabio Quattrini,fabio.quattrini@unimore.it
+13,Solène Tarride and Christopher Kermorvant,Revisiting N-Gram Models: Their Impact in Modern Neural Networks for Handwritten Text Recognition,Solène Tarride,starride@teklia.com
+16,"Mayire Ibrayim, Mengmeng Chen, Askar Hamdulla, Jianjun Kang and Chunhu Zhang",A Real-Time Scene Uyghur Text Detection Network Based on Feature Complementation,Mayire Ibrayim,mydear1949@163.com
+18,"Laura Jamieson, Carlos Francisco Moreno-García and Eyad Elyan",A Multiclass Imbalanced Dataset Classification of Symbols from Piping and Instrumentation Diagrams,Carlos Fransisco Moreno-Garcia,c.moreno-garcia@rgu.ac.uk
+19,"Jeff Yang, Huynh Vu The and Hai Luu Tuan",Light-Weight Multi-Modality Feature Fusion Network for Visual Rich Document Understanding,Huynh Vu The,vuthe_huynh@yahoo.com
+20,"Solène Tarride, Yoann Schneider, Marie Generali-Lince, Mélodie Boillet, Bastien Abadie and Christopher Kermorvant",Improving Automatic Text Recognition with Language Models in the PyLaia Open-Source Library,Solène Tarride,starride@teklia.com
+22,"Yamato Okamoto, Youngmin Baek, Geewook Kim, Ryota Nakao, Donghyun Kim, Moon Bin Yim, Seunghyun Park and Bado Lee",CREPE: Coordinate-Aware End-to-End Document Parser,Youngmin Baek,youngmin.baek@navercorp.com
+25,"Tahira Shehzadi, Didier Stricker and Muhammad Zeshan Afzal",A Hybrid Approach for Document Layout Analysis in Document images,Tahira Shehzadi,tahira.shehzadi@dfki.de
+27,"Tahira Shehzadi, Shalini Sarode, Didier Stricker and Muhammad Zeshan Afzal",Towards End-to-End Semi-Supervised Table Detection with Semantic Aligned Matching Transformer,Tahira Shehzadi,tahira.shehzadi@dfki.de
+30,"Gang Yao, Ning Ding, Tianqi Zhao, Kemeng Zhao, Pei Tang, Yao Tao and Liangrui Peng",Visual Prompt Learning for Chinese Handwriting Recognition,Liangrui Peng,penglr@tsinghua.edu.cn
+31,"Gang Yao, Kemeng Zhao, Chengyu Deng, Ning Ding, Tianqi Zhao, Yao Tao and Liangrui Peng",Geometric-aware control in diffusion model for handwritten Chinese font generation,Liangrui Peng,penglr@tsinghua.edu.cn
+32,"Omar Moured, Jiaming Zhang, M. Saquib Sarfraz and Rainer Stiefelhagen",AltChart: Enhancing VLM-based Chart Summarization Through Multi-Pretext Tasks,Omar Moured,moured.omar@gmail.com
+33,"Jordy Van Landeghem, Subhajit Maity, Ayan Banerjee, Matthew Blaschko, Marie-Francine Moens, Josep Llados and Sanket Biswas",DistilDoc: Knowledge Distillation for Visually-Rich Document Applications,Jordy Van Landeghem,jordy@contract.fit
+34,"José Andrés, Alejandro Toselli and Enrique Vidal",Mining and Analyzing Statistical Information from Untranscribed Form Images,José Andrés,joanmo2@prhlt.upv.es
+36,"Birhanu Hailu Belay, Isabelle Guyon, Tadele Mengiste, Bezawork Tilahun, Marcus Liwicki, Tesfa Tegegne and Romain Egele",A Historical Handwritten Dataset for Ethiopic OCR with Baseline Models and Human-level Performance,Birhanu Hailu Belay,birhanu-hailu.belay@upsaclay.fr
+37,"Rafael Sterzinger, Simon Brenner and Robert Sablatnig",Drawing the Line: Deep Segmentation for Extracting Art from Ancient Etruscan Mirrors,Rafael Sterzinger,rsterzinger@cvl.tuwien.ac.at
+38,Martin Kišš and Michal Hradiš,Self-supervised Pre-training of Text Recognizers,Martin Kišš,ikiss@fit.vutbr.cz
+42,"Xin Xia, Guodong Ding and Siyuan Li",LMTextSpotter: Towards Better Scene Text Spotting with Language Modeling in Transformer,Guodong Ding,dingguodong2@myhexin.com
+43,"Jiawei Wang, Shunchi Zhang, Kai Hu, Chixiang Ma, Zhuoyao Zhong, Lei Sun and Qiang Huo",Dynamic Relation Transformer for Contextual Text Block Detection,Jiawei Wang,wangjiawei@mail.ustc.edu.cn
+44,"Jiawei Wang, Kai Hu and Qiang Huo",DLAFormer: An End-to-End Transformer for Document Layout Analysis,Jiawei Wang,wangjiawei@mail.ustc.edu.cn
+45,"Kai Hu, Jiawei Wang, Weihong Lin, Zhuoyao Zhong, Lei Sun and Qiang Huo",UniVIE: A Unified Label Space Approach to Visual Information Extraction from Form-like Documents,Kai Hu,hk9770213@mail.ustc.edu.cn
+46,"Mélodie Boillet, Solène Tarride, Yoann Schneider, Bastien Abadie, Lionel Kesztenbaum and Christopher Kermorvant","The Socface Project: Large-Scale Collection, Processing, and Analysis of a Century of French Censuses",Solène Tarride,starride@teklia.com
+47,"Glen Pouliquen, Guillaume Chiron, Joseph Chazalon, Thierry Géraud and Ahmad Montaser Awal",Weakly Supervised Training for Hologram Verification in Identity Documents,Glen Pouliquen,glen.pouliquen@idnow.io
+49,"Qiyu Hou, Jun Wang, Meixuan Qiao and Lujun Tian",Synthesizing Realistic Data for Table Recognition,Jun Wang,hustwj@gmail.com
+50,"Akkshita Trivedi, Akarsh Upadhyay, Rudrabha Mukhopadhyay and Santanu Chaudhury",GDP: Generic Document Pretraining to Improve Document Understanding,Akkshita Trivedi,trivedi.2@iitj.ac.in
+51,"Adrian Rosello, Eliseo Fuentes-Martínez, Maria Alfaro-Contreras, David Rizo and Jorge Calvo-Zaragoza",Source-Free Domain Adaptation for Optical Music Recognition,Adrian Rosello,adrian.rosello@ua.es
+54,"Francisco J. Castellanos, Juan P. Martinez-Esteso, Alejandro Galán-Cuenca and Antonio Javier Gallego",A region-based approach for layout analysis of music score images in scarce data scenarios,Francisco J. Castellanos,fcastellanos@dlsi.ua.es
+55,"Yun Young Choi, Taehoon Kim, Namwook Kim, Taehee Lee and Seongho Joe",End-to-End Table Transformer,Seongho Joe,drizzle.cho@samsung.com
+58,"Eric Ayllon, Jorge Calvo-Zaragoza and Francisco J. Castellanos",Analysis of the Calibration of Handwriting Text Recognition Models,Francisco J. Castellanos,fcastellanos@dlsi.ua.es
+59,"He-Sen Dai, Xiao-Hui Li, Fei Yin, Xudong Yan, Shuqi Mei and Cheng-Lin Liu",GraphMLLM: A Graph-based Multi-level Layout Language-independent Model for Document Understanding,Xiao-Hui Li,xiaohui.li@nlpr.ia.ac.cn
+60,Takaya Kawakatsu,Multi-Cell Decoder and Mutual Learning for Table Structure and Character Recognition,Takaya Kawakatsu,kat.nii.ac.jp@gmail.com
+64,Kei Nakatsuru and Seiichi Uchida,Learning to Kern: Set-wise Estimation of Optimal Letter Space,Seiichi Uchida,uchida@ait.kyushu-u.ac.ip
+69,"Chang Liu, Simon Corbillé and Elisa Barney Smith",MOoSE: Multi-Orientation Sharing Experts for Open-set Scene Text Recognition,Chang Liu,chang.liu@ltu.se
+71,"Qiangang Pan, Yahong Hu, Youbai Xie, Xianghui Meng and Yilun Zhang",Deep Learning-Driven Innovative Model for Generating Functional Knowledge Units,Yahong Hu,huyahong@zjut.edu.cn
+74,"Huynh Vu The, Van Pham Hoai and Jeff Yang",One-shot Transformer-based Framework for Visually-Rich Document Understanding,Huynh Vu The,vuthe_huynh@yahoo.com
+75,"Wangli Yang, Jie Yang, Wanqing Li and Yi Guo",ConClue: Conditional Clue Extraction for Multiple Choice Question Answering,Jie Yang,jiey@uow.edu.au
+77,"Linger Deng, Mingxin Huang, Xudong Xie, Yuliang Liu, Lianwen Jin and Xiang Bai",Progressive Evolution from Single-Point to Polygon for Scene Text,Yuliang Liu,ylliu@hust.edu.cn
+78,Yoh Yamashita and Brian Kenji Iwana,Test Time Augmentation as a Defense Against Adversarial Attacks on Online Handwriting,Yoh Yamashita,yoh.yamashita@human.ait.kyushu-u.ac.jp
+79,"Kazuki Kitajima, Daichi Haraguchi and Seiichi Uchida",Font Impression Estimation in the Wild,Kazuki Kitajima,kazuki.kitajima@human.ait.kyushu-u.ac.jp
+80,"Khaytze Peong, Seiichi Uchida and Daichi Haraguchi",Typographic Text Generation with Off-the-Shelf Diffusion Model,Khaytze Peong,khaytze.peong@human.ait.kyushu-u.ac.jp
+81,"Zhen-Lun Mo, Song-Lu Chen, Qi Liu, Feng Chen and Xu-Cheng Yin",Multi-task Learning for License Plate Recognition in Unconstrained Scenarios,Zhen-Lun Mo,zhenlunmo@xs.ustb.edu.cn
+82,"Hui Shi, Yusheng Xie, Luis Goncalves, Sicun Gao and Jishen Zhao",WikiDT: Visual-based Table Recognition and Question Answering Dataset,Hui Shi,hshi@ucsd.edu
+83,"Yugo Kubota, Daichi Haraguchi and Seiichi Uchida",Impression-CLIP: Contrastive Shape-Impression Embedding for Fonts,Yugo Kubota,yugo.kubota@human.ait.kyushu-u.ac.jp
+84,"Rubèn Pérez Tito, Khanh Nguyen, Marlon Tobaben, Raouf Kerkouche, Mohamed Ali Souibgui, Gangsoo Jung, Joonas Jälkö, Vincent Poulain D'Andecy, Aurelie Joseph, Lei Kang, Ernest Valveny, Antti Honkela, Mario Fritz and Dimosthenis Karatzas",Privacy-Aware Document Visual Question Answering,Rubèn Pérez Tito,rperez@cvc@uab.cat
+86,"Daniel Parres, Dan Anitei and Roberto Paredes",Handwritten Document Recognition Using Pre-trained Vision Transformers,Daniel Parres,dparres@prhlt.upv.es
+89,"Wenjun Sun, Thi Hong Hanh Tran, Carlos-Emiliano González-Gallardo, Mickaël Coustaty and Antoine Doucet",Global-SEG: Text semantic segmentation based on global semantic pair relations,Wenjun Sun,wenjun.sun@univ-lr.fr
+92,"Wei Yang, Yihong Luo, Mayire Ibrayim and Askar Hamdulla",More and Less: Enhancing Abundance and Refining Redundancy for Text-prior-guided Scene Text Image Super-Resolution,Mayire Ibrayim,mayire401@xju.edu.cn
+94,"Omar Hamed, Souhail Bakkali, Marie-Francine Moens, Matthew Blaschko and Jordy Van Landeghem",Multimodal Adaptive Inference with Anytime Early Exiting,Omar Hamed,omarhamed@microsoft.com
+95,Marek Polewczyk and Marco Spinaci,ClusterTabNet: Supervised clustering method for table detection and table structure recognition,Marek Polewczyk,marek.polewczyk@sap.com
+97,"David Villanova-Aparisi, Solène Tarride, Carlos-D. Martínez-Hinarejos, Verónica Romero, Christopher Kermorvant and Moisés Pastor-Gadea",Reading Order Independent Metrics for Information Extraction in Handwritten Documents,David Villanova-Aparisi,davilap@inf.upv.es
+98,"Huen Chen, Jiangyang He and Anna Zhu",Controllable Text Layout Generation For Synthesizing Scene Text Image,Anna Zhu,annakkk@live.com
+100,"Maxime Talarmain, Carlos Boned, Sanket Biswas and Oriol Ramos",Recurrent Few-Shot model for Document Verification,Oriol Ramos,oriolrt@cvc.uab.cat
+102,"Dan Anitei, Daniel Parres, Joan Andreu Sánchez and José Miguel Benedí",Improving Efficiency and Performance through CTC-based Transformers for Mathematical Expression Recognition,Dan Anitei,danitei@prhlt.upv.es
+103,Manuel Villarreal and Joan Andreu Sánchez,Enhancing Recognition of Historical Musical Pieces with Synthetic and Composed images,Manuel Villarreal,mavilrui@prhlt.upv.es
+104,"Qilin Deng, Mayire Ibrayim, Askar Hamdulla, Hailong Luo and Chunhu Zhang",Doc-DINO: A Transformer Model for Complex Logical Document Layout Analysis,Mayire Ibrayim,mayire401@xju.edu.cn
+105,"Lei Kang, Mohamed Ali Souibgui, Fei Yang, Lluis Gomez, Ernest Valveny and Dimosthenis Karatzas",Machine Unlearning for Document Classification,Lei Kang,lkang@cvc.uab.es
+107,"Lei Kang, Rubèn Tito, Ernest Valveny and Dimosthenis Karatzas",Multi-Page Document Visual Question Answering using Self-Attention Scoring Mechanism,Lei Kang,lkang@cvc.uab.es
+108,"Yiran Zhao, Di Wu, Shuqi Dai and Tong Li",Integrating Dependency Type and Directionality into Adapted Graph Attention Networks to Enhance Relation Extraction,Tong Li,litong@bjut.edu.cn
+109,"Dominik Hauser, Matthias Beckmann, Günther Koliander and H. Siegfried Stiehl",On Image Processing and Pattern Recognition for Thermograms of Watermarks in Manuscripts - A First Proof-of-Concept,Matthias Beckmann,matthias.beckmann@uni-bremen.de
+111,"Syrine Kalleli, Scott Trigg, Ségolène Albouy, Matthieu Husson and Mathieu Aubry",Historical Astronomical Diagrams Decomposition in Geometric Primitives,Syrine Kalleli,syrine.kalleli@enpc.fr
+112,"Tianqing Zhang, Alimjan Aysa, Zhao Li, Kurban Ubul and Enguang Zuo",Improving Retrieval-Based Dialogue Systems: Fine-grained Post-training Prompt Adaptation and Pairwise Optimization Fine-Tuning Strategy,Kurban Ubul,kurbanu@xju.edu.cn
+113,"Antonio Ríos-Vila, Jorge Calvo-Zaragoza and Thierry Paquet",Sheet Music Transformer: End-To-End Optical Music Recognition Beyond Monophonic Transcription,Antonio Rios-Vila,arios@dlsi.ua.es
+116,"Alexios Giazitzis, Moises Diaz, Elias Zois and Miguel Angel Ferrer",Janus-faced handwritten signature attack: a clash between Handwritten Signature Duplicator and a writer independent Metric Meta-Learning Offline Signature Verifier,Alexios Giazitzis,ene262017050@uniwa.gr
+117,"Talles Viana, Victor Souza, Adriano Oliveira, Rafael Cruz and Robert Sabourin",Robust Handwritten Signature Representation with Continual Learning of Synthetic Data over Predefined Real Feature Space,Talles Viana,tbv@cin.ufpe.br
+119,"Jianhua Zhu, Liangcai Gao and Wenqi Zhao",ICAL: Implicit Character-Aided Learning for Enhanced Handwritten Mathematical Expression Recognition,Liangcai Gao,gaoliangcai@pku.edu.cn
+120,"Saifullah Saifullah, Stefan Agne, Andreas Dengel and Sheraz Ahmed",DocXplain: A Novel Model-Agnostic Explainability Method for Document Image Classification,Saifullah Saifullah,saifullah.saifullah@dfki.de
+121,"Andrei-Marius Avram, Andreea Iuga, George-Vlad Manolache, Vlad-Cristian Matei, Răzvan-Gabriel Micliuş, Vlad-Andrei Muntean, Manuel-Petru Sorlescu, Dragoș-Andrei Șerban, Adrian-Dinu Urse, Vasile Păiș and Dumitru-Clementin Cercel",HistNERo: Historical Named Entity Recognition for the Romanian Language,Dumitru-Clementin Cercel,dumitru.cercel@upb.ro
+122,"Jingtao Ma, Hongxi Wei and Yiming Wang",Recognition and Link Prediction of Onomatopoeia Texts with Arbitrary Shapes,Hongxi Wei,cswhx@imu.edu.cn
+123,"Arnab Hadler, Shivakumara Palaiahnakote, Umapada Pal, Michael Blumenstein and Cheng-Lin Liu",A New Unsupervised Approach Text Localization in Shaky and Non-Shaky Scene Video,Shivakumara Palaiahnakote,hudempsk@yahoo.com
+133,"Yangyang Liu, Yi Chen, Fei Yin and Cheng-Lin Liu",Context-Aware Confidence Estimation for Rejection in Handwritten Chinese Text Recognition,Yangyang Liu,liuyangyang2021@ia.ac.cn
+134,"Chao Liu, Jie Yang and Wanqing Li",Extractive Question Answering with Contrastive Puzzles and Reweighted Clues,Jie Yang,jiey@uow.edu.au
+136,"Jun Ding, Jiaoyan Wang, Alimjan Aysa, Xuebin Xu and Kurban Ubul",Oracle Bone Inscriptions Image Retrieval Based on Metric Learning,Kurban Ubul,kurbanu@xju.edu.cn
+140,"Tetta Kondo, Shumpei Takezaki, Daichi Haraguchi and Seiichi Uchida",Font Style Interpolation with Diffusion Models,Tetta Kondo,tetta.kondo@human.ait.kyushu-u.ac.jp
+143,"Tianzuo Li, Heng Zhang, Xiaohui Li and Fei Yin",Adaptive Scaling and Refined Pyramid Dual Attention Network for Scene Text Segmentation,Tianzuo Li,litianzuo2021@ia.ac.cn
+144,"Thibault Clérice, Ariane Pinche, Matenia Vlachou-Efstathiou, Alix Chagué, Jean-Baptiste Camps, Matthias Gille Levenson, Olivier Brisville-Fertin, Federico Boschetti, Franz Fischer, Michael Gervers, Agnès Boutreux, Avery Manton, Simon Gabay, Patricia O'Connor, Wouter Haverals, Mike Kestemont, Caroline Vandyck and Benjamin Kiessling",CATMuS Medieval: A multilingual large-scale cross-century dataset in Latin script for handwritten text recognition and beyond,Thibault Clérice,thibault.clerice@inria.fr
+145,"Xin Yang, Fei Yin, Yan-Ming Zhang, Xudong Yan and Tao Xue",Document Specular Highlight Removal with Coarse-to-fine Strategy,Fei Yin,fyin@nlpr@ia.ac.cn
+146,"Lu-Rong Ling, Heng Zhang, Fei Yin and Cheng-Lin Liu",Deep Metric Learning with Cross-Writer Attention for Offline Signature Verification,Lu-Rong Ling,linglurong2022@ia.ac.cn
+148,"Zhongyuan Han, Jun du, Mobai Xue, Jiefeng Ma, Pengfei Hu and Zhenrong Zhang",Radical Similarity Based Model Optimization and Post-correction for Chinese Character Recognition,Jun Du,jundu@ustc.edu.cn
+152,"Xingjian Hu, Baole Wei, Liangcai Gao and Jun Wang",SegHist: A General Segmentation-based Framework for Chinese Historical Document Text Line Detection,Liangcai Gao,gaoliangcai@pku.edu.cn
+153,"Chun-Bo Xu, Yi-Ming Chen and Cheng-Lin Liu",EntityLayout: Entity-level Pre-training Language Model for Semantic Entity Recognition and Relation Extraction,Cheng-Lin Liu,liucl@nlpr.ia.ac.cn
+155,"Thomas Constum, Lucas Preel, Théo Larcher, Pierrick Tranouez, Thierry Paquet and Sandra Bree",End-to-end information extraction in handwritten documents: Understanding Paris marriage records from 1880 to 1940,Thomas Constum,thomas.constum1@univ-rouen.fr
+156,"Yuxin Kong, Weihong Ma, Lianwen Jin and Xue Yang",GARDEN: Generative Prior Guided Network for Scene Text Image Super-Resolution,Lianwen Jin,eelwjin@scut.edu.cn
+158,Manh Tu Vu and Marie Beurton-Aimar,ViT-ED: Transformer network for image similarity measurement,Manh Tu Vu,manh.vu@labri.fr
+160,"Haochen Wang, Kai Hu, Haoyu Dong and Liangcai Gao",DocTabQA: Answering Questions from Long Documents Using Tables,Liangcai Gao,gaoliangcai@pku.edu.cn
+162,"Truong Thanh-Nghia, Hung Tuan Nguyen, Nam Tuan Ly, Toshihiko Horie and Masaki Nakagawa",Content-based Similarity for Automatic Scoring of Handwritten Descriptive Answers,Hung Tuan Nguyen,ntua nhung@gmail.com
+165,"Dhruv Kudale, Badri Vishal Kasuba, Venkatapathy Subramanian, Parag Chaudhuri and Ganesh Ramakrishnan",SPRINT: Script-agnostic Structure Recognition in Tables,Dhruv Kudale,22m2116@iitb.ac.in
+166,Stephan Unter,Text Line Segmentation on Ancient Egyptian Papyri: Layout Analysis with Object Detection Networks and Connected Components,Stephan Unter,stephan.unter@unibas.ch
+167,"Hao Yu, Hongxi Wei and Yiming Wang",Deepfake In-air Signature Verification via Two-channel Model,Hongxi Wei,cswhx@imu.edu.cn
+168,"Petr Kulagin, Dmitry Polevoy, Marina Chukalina, Dmitry Nikolaev and Vladimir Arlazarov",Fully automatic virtual unwrapping method for documents imaged by X-ray tomography,Petr Kulagin,kulagin.pa@phystech.edu
+169,Yejing Xie and Harold Mouchère,Stroke-Level Graph Labeling with Edge-weighted Graph Attention Network for Handwritten Mathematical Expression Recognition,Yejing Xie,yejing.xie@univ-nantes.fr
+170,"Travis Seng, Axel Carlier, Thomas Forgione, Vincent Charvillat and Wei Tsang Ooi",SlideCraft: Synthetic Slides Generation for Robust Slide Analysis,Travis Seng,travis.seng@toulouse-inp.fr
+172,Tristan Repolusk and Eduardo Veas,The KuiSCIMA Dataset for Optical Music Recognition of Ancient Chinese Suzipu Notation,Tristan Repolusk,trepolusk@know-center.at
+173,"Sayan Kumar Chaki, Zeynep Sonat Baltaci, Elliot Vincent, Remi Emonet, Fabienne Vial-Bonacci, Christelle Bahier-Porte, Mathieu Aubry and Thierry Fournel",Historical Printed Ornaments: Dataset and Tasks,Sayan Kumar Chaki,sayan.kumar.chaki@univ-st-etienne.fr
+176,"Pengjie Wang, Kaile Zhang, Xinyu Wang, Shengwei Han, Yongge Liu, Lianwen Jin, Xiang Bai and Yuliang Liu",Puzzle Pieces Picker: Deciphering Ancient Chinese Characters with Radical Reconstruction,Xinyu Wang,xinyu.wang02@adelaide.edu.au
+177,"Fadila Wendigoundi Douamba, Jiajun Song, Ling Fu, Yuliang Liu and Xiang Bai",The First Swahili Language Scene Text Detection and Recognition Dataset,Yuliang Liu,ylliu@hust.edu.cn
+178,"Zhi Pan, Yaowei Yang, Kurban Ubul and Alimjan Aysa",A New Bottom-up Path Augmentation Attention Network for Script Identification in Scene Images,Kurban Ubul,kurbanu@xju.edu.cn
+179,"Ioannis Siglidis, Nicolas Gonthier, Julien Gaubil, Tom Monnier and Mathieu Aubry",The Learnable Typewriter: A Generative Approach to Text Analysis,Ioannis Siglidis,ioannis.siglidis@enpc.fr
+180,"Arthur Flor de Sousa Neto, Byron Bezerra, Sávio Santos de Araújo, Wiliane Maria Alves Silva de Souza, Kléberson Feitosa Alves, Macileide Ferreira de Oliveira, Samara Victoria Santos Lins, Hugo Jorge Freire Hazin, Pedro Henrique Valença da Rocha and Alejandro Toselli",BRESSAY: A Brazilian Portuguese Dataset for Offline Handwritten Text Recognition,Arthur Flor de Sousa Neto,afsn@ecomp.poli.br
+182,"Tiziana D'Alessandro, Claudio De Stefano, Francesco Fontanella, Emanuele Nardone and Cesare Davide Pace",From Handwriting Analysis to Alzheimer’s Disease Prediction: An Experimental Comparison of Classifier Combination Methods,Tiziana D'Alessandro,tiziana.dalessandro@unicas.it
+185,"Ibrahim Souleiman Mahamoud, Mickaeal Coustaty, Aurélie Joseph, Jean-Marc Ogier and Vincent Poulain D'Andecy",CHIC: Corporate Document for Visual Question Answering,Ibrahim Souleiman Mahamoud,ibrahim.souleimanmahamoud@getyooz.com
+187,Enrique Vidal and Alejandro Toselli,Zipf Curves and Basic Text Analytics from Untranscribed Manuscript Images,Enrique Vidal,evidal@prhlt.upv.es
+190,"Chenyang Gao, Biao Yang, Wenwen Yu, Yuliang Liu and Xiang Bai",Knowledge Mining of Scene Text for Referring Expression Comprehension,Xiang Bai,xbai@hust.edu.cn
+191,"Zhi Pan, Yaowei Yang, Kurban Ubul and Alimjan Aysa",Script Identification in the Wild with FFT-Multi-Grained Mix Attention Transformer,Kurban Ubul,kurbanu@xju.edu.cn
+199,"Yu Li, Hongxi Wei and Shiwen Sun",LABT: A Sequence-to-Sequence Model for Mongolian Handwritten Text Recognition with Local Aggregation BiLSTM and Transformer,Hongxi Wei,cswhx@imu.edu.cn
+201,"Oshri Naparstek, Roi Pony, Inbar Shapira, Foad Abo Dahood, Ophir Azulai, Yevgeny Yaroker, Nadav Rubinstein, Maksym Lysak, Peter Staar, Ahmed Nassar, Nikolaos Livathinos, Christoph Auer, Elad Amrani, Idan Friedman, Orit Prince, Yevgeny Burshtein, Adi Raz Goldfarb and Udi Barzelay",KVP10k : A Comprehensive Dataset for Key-Value Pair Extraction in Business Documents,Oshri Naparstek,oshri.naparstek@ibm.com
+202,"Maham Jahangir, Azka Basit, Shahzad Younis and Faisal Shafait",PCA-Based Adversarial Attacks on Signature Verification Systems,Maham Jahangir,mjahangir.phdcs17seecs@seecs.edu.pk
+204,"Sankalp Sinha, Muhammad Saif Ullah Khan, Talha Uddin Sheikh, Didier Stricker and Muhammad Zeshan Afzal",CICA: Content Injected Contrastive Alignment for Zero-Shot Document Image Classification,Sankalp Sinha,sankalp.sinha@dfki.de
+205,"Marcel Lamott, Yves-Noel Weweler, Adrian Ulges, Faisal Shafait, Dirk Krechel and Darko Obradovic",LAPDoc: Layout-Aware Prompting for Documents,Marcel Lamott,marcel.lamott@hs-rm.de
+210,"Wiam Adnan, Joel Tang, Yassine Bel Khayat Zouggari, Seif Edinne Laatiri, Laurent Lam and Fabien Caspani",A LayoutLMv3-Based Model for Enhanced Relation Extraction in Visually-Rich Documents,Wiam Adnan,wiamadnan20@gmail.com
+211,"Jerod Weinman, Amelia Gómez Grabowska and Dimosthenis Karatzas","Counting the Corner Cases: Revisiting Robust Reading Challenge Data Sets, Evaluation Protocols, and Metrics",Jerod Weinman,jerod@acm.org
+213,"Syed Jawwad Haider Hamdani, Saifullah Saifullah, Stefan Agne, Andreas Dengel and Sheraz Ahmed",Latent Diffusion for Guided Document Table Generation,Syed Jawwad Haider Hamdani,hamdani@rhrk.uni-kl.de
+215,"Hamza Gbada, Karim Kalti and Mohamed Ali Mahjoub",Information Extraction from Visually Rich Documents using Directed Weighted Graph Neural Network,Hamza Gbada,hamza.gbada@eniso.u-sousse.tn
+216,"Weiguang Zhang, Qiufeng Wang, Kaizhu Huang, Xiaomeng Gu and Fengjun Guo",Coarse-to-Fine Document Image Registration for Dewarping,Qiufeng Wang,Qiufeng.Wang@xjtlu.edu.cn
+218,"Daria Ershova, Alexander Gayer, Alexander Sheshkus and Vladimir V. Arlazarov",An Ultra-Lightweight Approach for Machine Readable Zone Detection via Semantic Segmentation and Fast Hough Transform,Daria Ershova,d.ershova@smartengines.com
+221,"Tim Raven, Arthur Matei and Gernot A. Fink",Self-Supervised Vision Transformers for Writer Retrieval,Tim Raven,tim.raven@tu-dortmund.de
+229,"Yijie Hu, Qiu-Feng Wang, Yan-Ming Zhang and Kaizhu Huang",Class Incremental Learning for Character String Recognition,Qiu-Feng Wang,Qiufeng.Wang@xjtlu.edu.cn
+232,"Reem Asam, Boraq Madi and Jihad El-Sana",Text Enhancement for Historical Handwritten Documents,Reem Alaasam,rym@post.bgu.ac.il
+237,"Xinhong Chen, Bangdong Chen, Chenfan Qu, Dezhi Peng, Chongyu Liu and Lianwen Jin",DTSM: Toward Dense Table Structure Recognition with Text Query Encoder and Adjacent Feature Aggregator,Lianwen Jin,eelwjin@scut.edu.cn
+238,"Tong Zhang, Jianing Zhang and Rong Yan",Synergistic Diverse Perspective for Topic Evolution Analysis on Weibo,Rong Yan,csyanr@imu.edu.cn
+239,"Pengyu Yan, Mahesh Bhosale, Jay Lal, Bikhyat Adhikari and David Doermann",ChartReformer: Natural Language-Driven Chart Image Editing,Pengyu Yan,pyan4@buffalo.edu
+242,"Ajoy Mondal, Krishna Tulsyan and C V Jawahar",Bridging the Gap in Resource for Offline English Handwritten Text Recognition,Ajoy Mondal,ajoy.mondal@iiit.ac.in
+243,"Ajoy Mondal, Krishna Tulsyan and C V Jawahar",Indic Scene Text on the Roadside,Ajoy Mondal,ajoy.mondal@iiit.ac.in
+244,Taylor Archibald,DELINE8K: A Synthetic Pipeline for the Semantic Segmentation of Historical Documents,Taylor Archibald,tarch@byu.edu
+245,"Raghvendra Kumar, Deepak Prakash, Sriparna Saha and Shubham Sharma",IndicBART alongside Visual Element: Multimodal Summarization in Diverse Indian Languages,Raghvendra Kumar,raghvendra.kumar1004@gmail.com
+249,"Shuo Zhang, Biao Yang, Zhang Li, Zhiyin Ma, Yuliang Liu and Xiang Bai",DT-VQA: A Visual Question Answering Dataset for Exploring the Capabilities of LMMs on Dense Text,Yuliang Liu,ylliu@hust.edu.cn
+255,"Sho Shimotsumagari, Shumpei Takezaki, Daichi Haraguchi and Seiichi Uchida",Cross-Domain Image Conversion by CycleDM,Sho Shimotsumagari,sho.shimotsumagari@human.ait.kyushu-u.ac.jp
+257,"Mohammad Minouei, Mohammad Reza Soheili and Didier Stricker",Embedding Layout in Text for Document Understanding Using Large Language Models,Mohammad Minouei,mohammad.minouei@dfki.de
+260,Ahana Kundu and Ujjwal Bhattacharya,YOLO Assisted A* Algorithm for Robust Line Segmentation of Degraded Document Images,Ahana Kundu,ahanakundu_t@isical.ac.in
+266,"Emanuele Vivoli, Joan Lafuente Baeza, Ernest Valveny Llobet and Dimosthenis Karatzas",Multimodal Transformer for Comics Text-Cloze,Emanuele Vivoli,evivoli@cvc.uab.cat
+270,Jacob Murel and David Smith,Active Learning with Relevance Feedback for Handwriting Detection in Historical Print,Jacob Murel,j.murel@northeastern.edu
+271,Ting-Wei Liao and Hsiang-An Wang,Recognition of Components in Taoist Charm Images,Hsiang-An Wang,sawang@gate.sinica.edu.tw
+273,"Adarsh Tiwari, Sanket Biswas and Josep Lladós",SketchGPT: A Vectorized Autoregressive Modeling for Sketch Generation and Analysis,Adarsh Tiwari,adarshtd17@gmail.com
+274,"Hiba Maryam, Ling Fu, Jiajun Song, Tajrian Abm Shafayet, Qidi Luo, Yuliang Liu and Xiang Bai",Dataset and Benchmark for Urdu Natural Scenes Text Detection and Recognition and Visual Question Answering,Xiang Bai,xbai@hust.edu.cn
+275,"Jiří Mayer, Milan Straka, Jan Hajič Jr. and Pavel Pecina",Practical End-to-End Optical Music Recognition for Pianoform Music,Jiří Mayer,mayer@ufal.mff.cuni.cz
+284,"Christopher Kermorvant, Eva Bardou, Manon Blanco and Bastien Abadie",Callico : a versatile open-source document image annotation platform,Christopher Kermorvant,kermorvant@teklia.com
+285,"Nauman Riaz, Saifullah Saifullah, Stefan Agne, Andreas Dengel and Sheraz Ahmed",StylusAI: Stylistic Adaptation for Robust German Handwritten Text Generation,Nauman Riaz,nauman.riaz@dfki.de
+289,"Nil Biescas Rue, Carlos Boned, Josep Lladós and Sanket Biswas",GeoContrastNet: Contrastive Edge Learning in Graph Attention Networks for Document Understanding,Nil Biescas Rue,nilbiescas3@gmail.com
+291,"George Retsinas, Konstantina Nikolaidou and Giorgos Sfikas",Enhancing CRNN HTR Architectures with Transformer Blocks,Konstantina Nikolaidou,konstantina.nikolaidou@ltu.se
+296,"Ayan Banerjee, Sanket Biswas, Josep Lladós and Umapada Pal",GraphKD: Exploring Knowledge Distillation Towards Document Object Detection with Structured Graph Creation,Ayan Banerjee,abanerjee@cvc.uab.es
+316,Khanh Nguyen and Dimosthenis Karatzas,Federated Document Visual Question Answering: A Pilot Study,Khanh Nguyen,knguyen@cvc.uab.cat
+318,"Anna Scius-Bertrand, Atefeh Fakhari, Lars Vögtlin, Daniel Ribeiro Cabral and Andreas Fischer",Are Layout Analysis and OCR Still Useful for Document Information Extraction using Foundation Models?,Anna Scius-Bertrand,anna.scius-bertrand@hefr.ch
+323,"Nikolai Vogler, Kartik Goyal, Samuel V. Lemley, D.J. Schuldt, Christopher N. Warren, Max G'Sell and Taylor Berg-Kirkpatrick",Clustering Running Titles to Understand the Printing of Early Modern Books,Nikolai Vogler,nvogler@ucsd.edu
+C01,"Xudong Xie, Linger Deng, Zhifei Zhang, Zhaowen Wang and Yuliang Liu",ICDAR 2024 Competition on Artistic Text Recognition,Yuliang Liu,ylliu@hust.edu.cn
+C02,"Silvia Zottin, Axel De Nardin, Gian Luca Foresti, Emanuela Colombi, and Claudio Piciarelli",ICDAR 2024 Competition on Few and Many Shot Layout Segmentation of Ancient Manuscripts,Silvia Zottin,zottin.silvia@spes.uniud.it
+C03,"Alicia Fornés, Jialuo Chen, Pau Torras, Carles Badal, Beáta Megyesi, Michelle Waldispühl, Nils Kopal and George Lasry",ICDAR 2024 Competition on Handwriting Recognition of Historical Ciphers (HR-Ciphers),Alicia Fornes,afornes@cvc.uab.es
+C04,"Arthur F.S. Neto, Byron L.D. Bezerra, Sávio S. Araújo, Wiliane M. A. S. Souza, Kléberson F. Alves, Macileide F. Oliveira, Samara V. S. Lins, Hugo J. F. Hazin, Pedro H. V. Rocha and Alejandro H. Toselli",ICDAR 2024 Competition on Handwritten Text Recognition in Brazilian Essays – BRESSAY,Arthur Flor de Sousa Neto,afsn@ecomp.poli.br
+C05,"Zekun Li, Yijun Lin, Yao-Yi Chiang, Jerod Weinman, Solenn Tual, Joseph Chazalon, Julien Perret, Bertrand Dumenieu and Nathalie Abadie","ICDAR 2024 Competition on Historical Map Text Detection, Recognition, and Linking",Zekun Li,li002666@umn.edu
+C06,"Janne van der Loop, Florian Kordon, Martin Mayr, Vincent Christlein, Fei Wu, Dalia Rodríguez-Salas, Nikolaus Weichselbaumer, Mathias Seuret",ICDAR 2024 Competition on Multi Font Group Recognition and OCR,Janne Van der Loop,jannevanderloop@uni-mainz.de
+C07,"Mingjun Chen, Hao Wu, Qikai Chang, Hanbo Cheng, Jiefeng Ma, Pengfei Hu, Zhenrong Zhang, Chenyu Liu, Changpeng Pi, Jinshui Hu, Baocai Yin, Bing Yin, Cong Liu and Jun Du",ICDAR 2024 Competition on Recognition of Chemical Structures – CROCS 2024,Jun Du,jundu@ustc.edu.cn
+C08,"Soumya Shamarao Jahagirdar, Ajoy Mondal, Yuheng (Carl) Ren, Omkar M. Parkhi and C. V. Jawahar",ICDAR 2024 Competition on Reading Documents Through Aria Glasses,Ajoy Mondal,ajoy.mondal@iiit.ac.in
+C09,"Ajoy Mondal, Vijay Mahadevan, R. Manmatha and C. V. Jawahar",ICDAR 2024 Competition on Recognition and VQA on Handwritten Documents,Ajoy Mondal,ajoy.mondal@iiit.ac.in
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
