@@ -12,7 +12,7 @@ You will be provided with a folder containing PDF files. Each PDF is the first p
 2. **Document Classification**: Classify each paper into one of the predefined categories (or suggest better-fitting ones if applicable).
 3. **Organize Outputs**: Create a json file with the classification and extraction results.
 
-### Predefined Categories
+### Our Predefined Categories
 
 - **Tables**
 - **Classification**
@@ -22,7 +22,7 @@ You will be provided with a folder containing PDF files. Each PDF is the first p
 - **Document Layout Understanding**
 - **Others**
 
-*Feel free to suggest and use other categories if you believe they fit better. A maximum of 10 categories are acceptable.*
+*Feel free to suggest and use other categories if you believe they fit better (either extra ones or even totally new set of classes). A maximum of 10 categories are acceptable.*
 
 ## Technical Requirements
 
