@@ -87,7 +87,7 @@ The resulting code should be able to **run offline without the use of external a
 ## Evaluation Criteria
 
 - **Accuracy of Information Extraction**: Correctness in extracting titles and authors.
-- **Classification Performance**: Proper category assignment.
+- **Classification Performance**: Relevant category assignment.
 - **Use of Machine Learning Models**: Effective utilization of classical and/or deep learning models in your solution.
 - **Code Quality**: Readability, organization, and documentation of your code.
 - **Problem-Solving Skills**: Methodology used to tackle the underlying issue.
