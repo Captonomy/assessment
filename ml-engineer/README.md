@@ -26,9 +26,9 @@ You will be provided with a folder containing PDF files. Each PDF is the first p
 
 ## Technical Requirements
 
-The resulting code should be able to **run offline on a local machine**. If a GPU is required you can use Google Collab or similar service for your development.
+The resulting code should be able to **run offline without the use of external apis**. If a GPU is required you can use Google Collab or similar service for your development.
 
-- **Model Usage**: You are free to utilize any open source algorithm of your choosing (from classical ML scikit ones to Deep Learning models) and are encouraged to prefer small models like **BERT-like encoders** or similar. You may use pre-trained versions and fine-tune them if necessary.
+- **Model Usage**: You are free to utilize any open source algorithm of your choosing (from classical ML scikit ones to Deep Learning models) and are encouraged to prefer small models like **BERT-like encoders** or similar.
 - **Programming Language**: Python is mandatory.
 - **Libraries and Tools**: You are encouraged to use libraries such as PyTorch (preferred), TensorFlow, Hugging Face Transformers, or any other relevant tools.
 
@@ -40,7 +40,7 @@ The resulting code should be able to **run offline on a local machine**. If a GP
 
 ### 2. Document Classification
 
-- **Objective**: Classify each paper into the most appropriate category.
+- **Objective**: Classify each paper into **its most** appropriate category.
 - **Guidelines**:
     - Analyze the content (title, abstract, etc.) to determine the relevant category.
     - Use BERT-like models to generate embeddings or for text classification.
@@ -64,7 +64,7 @@ The resulting code should be able to **run offline on a local machine**. If a GP
 }
 ```
 - **Guidelines**:
-    - You can optionally use the provided CSV to do a sanity check and validate your results.
+    - You can optionally use the provided CSV to do a sanity check and validate your results regarding title and author extraction.
 
 ## Deliverables
 
