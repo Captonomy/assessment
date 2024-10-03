@@ -52,7 +52,9 @@ The resulting code should be able to **run offline on a local machine**. If a GP
 
 ```
 {
-  "tables": [{"originalFileName": "filename.pdf", "title": "recognized title", "authors": ["author_A", "author_B"]}],
+  "tables": [{"originalFileName": "paper_A.pdf", "title": "recognized title", "authors": ["author_A", "author_B"]},
+            {"originalFileName": "paper_B.pdf", "title": "recognized title", "authors": ["author_C", "author_D"]},
+            ...],
   "classification": [...],
   "keyInformationExtraction": [...],
   "opticalCharacterRecognition": [...],
