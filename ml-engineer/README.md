@@ -36,7 +36,7 @@ The resulting code should be able to **run offline without the use of external a
 
 ### 1. Information Extraction
 
-- **Objective**: Extract the **title** and **authors** from each PDF and save them in json format.
+- **Objective**: Extract the **title** and **authors** from each PDF and save them in json format. Your solution should be as general as possible and potentially work on papers that are not part of this dataset. Although all papers contain specific sections such as *Title* and *Abstract* they are not expected to be in a specific order or a specific font for example.
 
 ### 2. Document Classification
 
@@ -89,6 +89,7 @@ The resulting code should be able to **run offline without the use of external a
 - **Accuracy of Information Extraction**: Correctness in extracting titles and authors.
 - **Classification Performance**: Relevant category assignment.
 - **Use of Machine Learning Models**: Effective utilization of classical and/or deep learning models in your solution.
+- **Solution Generalization**: The provided solution should generalize to potential data discrepancies and not depend on features specific to this dataset (e.g. order of sections).
 - **Code Quality**: Readability, organization, and documentation of your code.
 - **Problem-Solving Skills**: Methodology used to tackle the underlying issue.
 - **Communication**: Clarity and conciseness of your report.
